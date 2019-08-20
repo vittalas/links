@@ -1,1 +1,11 @@
 ###links
+
+
+Cypress links
+https://testdriven.io/blog/running-cypress-tests-in-parallel/
+
+Circle CI parallel jobs
+https://circleci.com/docs/2.0/parallelism-faster-jobs/
+
+https://docs.cypress.io/guides/references/best-practices.html#Organizing-Tests-Logging-In-Controlling-State
+
