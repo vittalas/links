@@ -3,6 +3,7 @@
 
 Cypress links
 https://testdriven.io/blog/running-cypress-tests-in-parallel/
+https://deliciousbrains.com/cypress-testing/
 
 Circle CI parallel jobs
 https://circleci.com/docs/2.0/parallelism-faster-jobs/
